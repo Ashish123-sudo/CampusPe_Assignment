@@ -23,17 +23,16 @@ Setup Instructions:
 ->Cohere: Sign up at dashboard.cohere.com.
 
 How to run each program:
-1) Create python file( ex openai_example.py)
+1) Create python file(openai_example.py)
 2)Write code:
-
-# api_example.py
+( Code structure:
 import library_name
 import os
-# Configure API
+
 api_key = os.getenv("API_KEY_NAME")
 client = initialize_client(api_key)
 def query_api(prompt):
- """Query the AI API with a prompt"""
+
  try:
  response = client.generate(
  prompt=prompt,
