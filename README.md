@@ -42,7 +42,7 @@ def query_api(prompt):
  return response.text
  except Exception as e:
  return f"Error: {str(e)}"
-# Main execution
+
 if __name__ == "__main__":
  user_prompt = input("Enter your prompt: ")
  print("Querying API...")
