@@ -57,3 +57,18 @@ ERRORS FACED:
 
 Openai : Required payment for working api
 Hugging face: Faced multiple errors of 401, Model not supported etc
+
+
+--------------------------------------------------------------------------
+>Assignment 4
+
+
+NeuralChat is a responsive AI chat interface built using HTML, CSS, and JavaScript.
+It mimics a modern chatbot UI similar to ChatGPT, with smooth interactions and mobile-friendly design.
+
+Tech Stack
+HTML5
+CSS3
+JavaScript (jQuery)
+Bootstrap
+Font Awesome
